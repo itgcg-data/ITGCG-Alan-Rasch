@@ -1,6 +1,6 @@
 # ITGCG-Alan Rasch
 
- About Alan Rasch:
+ About F. Alan Rasch:
  Phd in Applied Management & Decision Science (USA),<br/>
  MSc in Technology Management (USA)<br/>
  Sr. Consultant in Data Science/Engineering, AI Projects.
