@@ -9,3 +9,5 @@ Giving seminars at various universities on various topics, such as AI applicatio
 Consulting with ITGCG in the UK with global clients.<br/>
 Amazon profile: [https://www.amazon.com/stores/author/B08127S8M6]<br/>
 Google Scholars profile: [https://scholar.google.co.uk/citations?user=ChoxWXUAAAAJ&hl=en]<br/>
+
+
